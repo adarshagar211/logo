@@ -2,5 +2,10 @@
   "name": "POKOCOIN",
   "symbol": "POKC",
   "description": "Dummy token",
-  "image": "https://raw.githubusercontent.com/adarshagar211/logo/main/PokoCoin_coin1.PNG"
+  "image": "https://raw.githubusercontent.com/adarshagar211/logo/main/PokoCoin_coin1.PNG",
+  "external_url": "https://pokocoin.com",
+  "attributes": [
+    { "trait_type": "Community", "value": "Telegram: https://t.me/pokocoins" },
+    { "trait_type": "Updates", "value": "Twitter: https://x.com/pokocoinlabs" }
+  ]
 }
